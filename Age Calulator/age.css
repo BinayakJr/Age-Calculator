@@ -1,0 +1,61 @@
+
+.container{
+margin-top: 50px;
+width: 500px;
+height: 500px;
+border:1px solid black;
+border-radius:20px;
+background-color: black;
+color: gold;
+}
+h2{
+text-align:center;
+}
+.buttonContainer{
+display:flex;
+justify-content:space-around;
+}
+.button1{
+background:dodgerblue;
+padding:10px;
+border-radius:5px;
+border:none;
+color:white;
+margin:10px;
+}
+.button2{
+background:dodgerblue;
+padding:10px;
+border-radius:5px;
+border:none;
+color:white;
+margin:10px;
+}
+.button3{
+background:red;
+padding:10px;
+border-radius:5px;
+border:none;
+color:white;
+margin:10px;
+}
+.resultContainer{
+padding:10px;
+justify-content:1px solid black;
+}
+#results{
+justify-content:space-around;
+padding:10px;
+border:1px solid black;
+border-radius:5px;
+}
+p{
+text-align: center;
+margin-top:30px;
+font-style:italic;
+font-weight:500;
+}
+
+
+
+
